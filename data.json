@@ -1,0 +1,42 @@
+{
+    "https://wellgosh.com/adidas-yeezy-boost-350-v2-butter.html": {
+        "name": "Adidas Yeezy Boost 350 V2 Butter F36980",
+        "price": "\u00a3170.00",
+        "image": "https://cdn.wellgosh.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/u/butter.jpg",
+        "status": "out of stock",
+        "url": "https://wellgosh.com/adidas-yeezy-boost-350-v2-butter.html",
+        "sizes": [],
+        "id": "https://wellgosh.com/adidas-yeezy-boost-350-v2-butter.html",
+        "atc": []
+    },
+    "https://wellgosh.com/nike-air-jordan-1-retro-high-og-black-medium-grey.html": {
+        "name": "Nike Air Jordan 1 Retro High OG 'Shadow' Black/Medium Grey 555088-013",
+        "price": "\u00a3129.95",
+        "image": "https://cdn.wellgosh.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nike_air_jordan_1_shadow_1.jpg",
+        "status": "out of stock",
+        "url": "https://wellgosh.com/nike-air-jordan-1-retro-high-og-black-medium-grey.html",
+        "sizes": [],
+        "id": "https://wellgosh.com/nike-air-jordan-1-retro-high-og-black-medium-grey.html",
+        "atc": []
+    },
+    "https://wellgosh.com/vans-ua-slip-on-cap-marshmallow-true-white.html": {
+        "name": "Vans UA Slip-On Cap Marshmallow/True White VA3TKSUC0",
+        "price": "\u00a379.95",
+        "image": "https://cdn.wellgosh.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/v/a/vans_slip_on_cap_marshmallow_1.jpg",
+        "status": "out of stock",
+        "url": "https://wellgosh.com/vans-ua-slip-on-cap-marshmallow-true-white.html",
+        "sizes": [],
+        "id": "https://wellgosh.com/vans-ua-slip-on-cap-marshmallow-true-white.html",
+        "atc": []
+    },
+    "https://wellgosh.com/nike-react-element-87-dark-grey-pure-platinum.html": {
+        "name": "Nike React Element 87 Dark Grey/Pure Platinum AQ1090-003",
+        "price": "\u00a3134.95",
+        "image": "https://cdn.wellgosh.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/i/nike-react-element-87-dark-greypure-platinum-aq1090-003-6.jpg",
+        "status": "in stock",
+        "url": "https://wellgosh.com/nike-react-element-87-dark-grey-pure-platinum.html",
+        "sizes": [],
+        "id": "https://wellgosh.com/nike-react-element-87-dark-grey-pure-platinum.html",
+        "atc": []
+    }
+}
